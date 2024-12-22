@@ -1,10 +1,10 @@
 
 # Repositorio del concurso de Phaw AI: Predicción de enfermedades coronarias
 
-Este repositorio contiene los archivos desarrollados para el concurso de PhawAI. Fue desarrollado por Nicolás Mercado.
+Este repositorio contiene los archivos desarrollados para el concurso de PhawAI. Fue desarrollado por **Nicolás Mercado**.
 
 
-**Detalles del modelo final elegido**
+**Detalles del modelo final elegido** <br>
 Finalmente se utilizó un modelo de boosting *LightGBM* con una optimización de hiperparámetros utilizando *Optuna*
 
 ---
@@ -22,7 +22,7 @@ Este cuadernillo contiene el exploratory data analysis y además todo el procedi
 
 
 ### 2️⃣ **Enfoques con técnicas de Deep learning**
-**Técnicas de Deep Learning** En este cuadernillo se ven dos técnicas de deep learning para trabajar con data tabular:
+**Técnicas de Deep Learning** <br> En este cuadernillo se ven dos técnicas de deep learning para trabajar con data tabular:
 - Autoencoder para extraer features
 - Tab-Net
 Se utilizaron los frameworks: *Pytorch* y *Keras* 
